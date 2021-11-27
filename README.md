@@ -4,7 +4,7 @@ A csv file with the driving distance to every hospital for every 2018 SA2 statis
 
 I think all in all, an appropriate level of licencing (to reassure people that this is open to be used) is the ssame Creative Commons Attribution CC By 4.0 used in the original data, https://creativecommons.org/licenses/by/4.0/ For reference I'm David Hood and I made this data set available at https://github.com/thoughtfulbloke/SA2hospital on the 27th of November 2021.
 
-The fields in the csv are the distance in kilometres, the SA2 area, and the hospital (all 80 hospitals from the hospital source are included and people can use their own judgement about excluding various ones or building models where capacity collapses)
+The fields in the csv are the distance in kilometres, the SA2 area, and the hospital (all 155 hospital use facilities from the hospital location source are included and people can use their own judgement about excluding various ones or building models where capacity collapses)
 
 The route information comes from Open Street Map, via the geofabrik New Zealand specific .pbf download http://download.geofabrik.de/australia-oceania.html Open Street Map data is © OpenStreetMap contributors, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). The New Zealand data is specifically from LINZ and licensed for reuse under CC BY 4.0. The Open Street Map licence information is at https://www.openstreetmap.org/copyright
 
